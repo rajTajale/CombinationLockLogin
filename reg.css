@@ -1,0 +1,22 @@
+.centered {
+width: 500px;
+text-align: center;
+position: fixed;
+top: 450px;
+}
+
+#target {width: 3em;}
+
+.credential{
+  position: fixed;
+  top: 550px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+
+}
+
+.credential input, label, button{
+  margin-top: 10px;
+
+}
